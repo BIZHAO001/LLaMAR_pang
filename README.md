@@ -1,5 +1,5 @@
 <div align="center">
-This repo is cloned from: https://github.com/nsidn98/LLaMAR.git.
+This repo is forked from: https://github.com/nsidn98/LLaMAR.git. 
 
 It is used for: (a) reproduction of the original work, (b) Adaption to air traffic management domain.
 
